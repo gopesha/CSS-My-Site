@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0px auto;
+    font-family: 'Redressed', cursive;
+    line-height: 2;
+    color: #66BFBF; 
+}
+.definition{
+    font-size: 2.5rem; 
+    font-weight: normal;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+p{
+    color: #40514E;
+}
+h2, h3, p{
+    font-family: 'Lato', sans-serif;
+}
+.top-container{
+    background-color: #c6ebc9;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    padding-top: 100px;
+}
+
+span{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.man{
+    width: 10%;
+}
+.guitar{
+    float: left;
+    margin-right: 30px;
+}
+.screen{
+    float: right;
+    width: 25%;
+    margin-left: 30px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #70af85;
+    border-width: 5px;
+    width: 5%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.bottom-container{
+    margin-top: 50px;
+    background-color: #66BFBF;
+}
+.final-text{
+    color: #EAF6F6;
+}
+.footer-link{
+    color: #11999E;
+    padding: 30px;
+}
+.profile{
+    margin-top: 50px;
+}
